@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175.87 175.87">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 1.93 4.82;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+        stroke: #6da4da;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-6, .cls-7 {
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 1.93 4.82;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: .1px;
+      }
+
+      .cls-4, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 2 5;
+      }
+
+      .cls-8 {
+        fill: #6da4da;
+      }
+    </style>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <g>
+        <rect class="cls-3" x="37.56" y="37.56" width="100.76" height="100.76" transform="translate(87.94 -36.42) rotate(45)"/>
+        <rect class="cls-3" x="58.46" y="58.46" width="58.95" height="58.95" transform="translate(87.94 -36.42) rotate(45)"/>
+        <rect class="cls-5" x="64.9" y="64.9" width="46.06" height="46.06" transform="translate(87.94 -36.42) rotate(45)"/>
+        <rect class="cls-3" x="70.9" y="70.9" width="34.06" height="34.06" transform="translate(87.94 -36.42) rotate(45)"/>
+        <rect class="cls-5" x="76.72" y="76.72" width="22.43" height="22.43" transform="translate(87.94 -36.42) rotate(45)"/>
+        <rect class="cls-8" x="81.38" y="81.38" width="13.11" height="13.11" transform="translate(87.94 -36.42) rotate(45)"/>
+        <circle class="cls-4" cx="87.94" cy="87.94" r="50.38"/>
+        <circle class="cls-6" cx="87.94" cy="87.94" r="46.09"/>
+        <circle class="cls-3" cx="87.94" cy="87.94" r="41.68" transform="translate(-17.58 153.75) rotate(-76.95)"/>
+        <line class="cls-3" x1="87.94" y1="16.69" x2="87.94" y2="68.87"/>
+        <line class="cls-3" x1="37.56" y1="37.55" x2="74.46" y2="74.46"/>
+        <line class="cls-3" x1="16.69" y1="87.94" x2="68.87" y2="87.94"/>
+        <line class="cls-3" x1="37.56" y1="138.32" x2="74.46" y2="101.41"/>
+        <line class="cls-3" x1="87.94" y1="159.18" x2="87.94" y2="107"/>
+        <line class="cls-3" x1="138.32" y1="138.32" x2="101.41" y2="101.41"/>
+        <line class="cls-3" x1="159.18" y1="87.94" x2="107" y2="87.94"/>
+        <line class="cls-3" x1="138.32" y1="37.55" x2="101.41" y2="74.46"/>
+      </g>
+      <g>
+        <circle class="cls-7" cx="135.83" cy="40.04" r="9.32" transform="translate(74.61 167.73) rotate(-80.81)"/>
+        <circle class="cls-7" cx="40.04" cy="40.04" r="9.32"/>
+        <circle class="cls-7" cx="40.04" cy="135.83" r="9.32"/>
+        <circle class="cls-7" cx="135.83" cy="135.83" r="9.32"/>
+      </g>
+      <g>
+        <polyline class="cls-3" points="132.34 12.76 131.84 11.89 130.84 11.89"/>
+        <line class="cls-2" x1="126.02" y1="11.89" x2="47.44" y2="11.89"/>
+        <polyline class="cls-3" points="45.03 11.89 44.03 11.89 43.53 12.76"/>
+        <line class="cls-1" x1="41.12" y1="16.93" x2="1.83" y2="84.98"/>
+        <polyline class="cls-3" points=".62 87.07 .12 87.94 .62 88.8"/>
+        <line class="cls-1" x1="3.04" y1="92.98" x2="42.32" y2="161.03"/>
+        <polyline class="cls-3" points="43.53 163.12 44.03 163.98 45.03 163.98"/>
+        <line class="cls-2" x1="49.85" y1="163.98" x2="128.43" y2="163.98"/>
+        <polyline class="cls-3" points="130.84 163.98 131.84 163.98 132.34 163.12"/>
+        <line class="cls-1" x1="134.75" y1="158.94" x2="174.04" y2="90.89"/>
+        <polyline class="cls-3" points="175.25 88.8 175.75 87.94 175.25 87.07"/>
+        <line class="cls-1" x1="172.84" y1="82.89" x2="133.55" y2="14.84"/>
+      </g>
+      <polygon class="cls-3" points="11.89 44.03 11.89 131.84 87.94 175.75 163.98 131.84 163.98 44.03 87.94 .12 11.89 44.03"/>
+      <g>
+        <path class="cls-8" d="M47.99,123.62c-.21,2.02,1.38,4.07,3.39,4.35s4.11-1.23,4.48-3.23c.36-1.96-1.25-4.55-3.32-4.85-2.07-.3-4.34,1.74-4.55,3.72Z"/>
+        <path class="cls-8" d="M47.99,51.62c-.21,2.02,1.38,4.07,3.39,4.35s4.11-1.23,4.48-3.23c.36-1.96-1.25-4.56-3.32-4.85-2.07-.3-4.34,1.74-4.55,3.72Z"/>
+        <path class="cls-8" d="M119.99,123.62c-.21,2.02,1.38,4.07,3.39,4.35,2.01,.29,4.11-1.23,4.48-3.23,.36-1.96-1.25-4.55-3.32-4.85-2.07-.3-4.34,1.74-4.55,3.72Z"/>
+        <path class="cls-8" d="M119.99,51.62c-.21,2.02,1.38,4.07,3.39,4.35,2.01,.29,4.11-1.23,4.48-3.23,.36-1.96-1.25-4.56-3.32-4.85-2.07-.3-4.34,1.74-4.55,3.72Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

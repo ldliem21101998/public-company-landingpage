@@ -1,0 +1,8 @@
+export { default as _1 } from "./1.png"
+export { default as _2 } from "./2.png"
+export { default as _3 } from "./3.png"
+export { default as _4 } from "./4.png"
+export { default as _5 } from "./5.png"
+export { default as _6 } from "./6.png"
+export { default as _7 } from "./7.png"
+export { default as _8 } from "./8.png"

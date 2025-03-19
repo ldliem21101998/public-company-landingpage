@@ -1,0 +1,2630 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* Root */
+
+    .rootDot_1 {
+        bottom: 22%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 83%;
+        left: 10.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 59%;
+    }
+
+    .rootDot_4 {
+        bottom: 33.5%;
+        left: 50%;
+    }
+
+    .rootDot_5 {
+        bottom: 53.2%;
+        left: 82%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 3.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 38%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 0%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 40%;
+    }
+
+    /* #region UniverseTime */
+    .universe_bg .universe_firstSection {
+        padding-top: 5rem;
+        height: 43%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .universe_bg .universe_firstSection_text {
+        font-size: 11px;
+        padding-left: 10%;
+    }
+
+    .universe_bg .universe_secondSection_text {
+        font-size: 11px;
+    }
+
+    .universe_bg .universe_secondSection_OMLogo {
+        width: 100px;
+        height: 100px;
+    }
+
+    .universe_bg .earth,
+    .universe_bg .earth_effect {
+        width: 100px;
+        height: 100px;
+    }
+
+    .universe_bg .sun {
+        width: 110px;
+        height: 110px;
+    }
+
+    /* #endregion */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .rootDot_1 {
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85.5%;
+        left: 12.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 66.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 35.5%;
+        left: 52%;
+    }
+
+    .rootDot_5 {
+        bottom: 55.2%;
+        left: 85%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 52%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 22%;
+    }
+
+    .rootContent_5 {
+        bottom: 50%;
+        left: 64%;
+    }
+
+    /* #region UniverseTime */
+    .universe_bg .universe_firstSection {
+        padding-top: 5rem;
+        height: 43%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .universe_bg .universe_firstSection_text {
+        font-size: 16px;
+        padding-left: 10%;
+    }
+
+    .universe_bg .universe_secondSection_text {
+        font-size: 16px;
+    }
+
+    .universe_bg .universe_secondSection_OMLogo {
+        width: 125px;
+        height: 125px;
+    }
+
+    .universe_bg .earth,
+    .universe_bg .earth_effect {
+        width: 120px;
+        height: 120px;
+    }
+
+    .universe_bg .sun {
+        width: 130px;
+        height: 130px;
+    }
+
+    /* #endregion */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .rootDot_1 {
+        bottom: 58%;
+        left: 4.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 81%;
+        left: 31%;
+    }
+
+    .rootDot_3 {
+        bottom: 66%;
+        left: 62%;
+    }
+
+    .rootDot_4 {
+        bottom: 47%;
+        left: 75%;
+    }
+
+    .rootDot_5 {
+        bottom: 10.2%;
+        left: 19%;
+    }
+
+    .rootContent_1 {
+        bottom: 12%;
+        left: 18%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+    /* #region UniverseTime */
+    .universe_bg .universe_firstSection {
+        padding-top: 5rem;
+        height: 45%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .universe_bg .universe_firstSection_text {
+        font-size: 18px;
+        padding-left: 20%;
+    }
+
+    .universe_bg .universe_secondSection_text {
+        font-size: 18px;
+    }
+
+    .universe_bg .universe_secondSection_OMLogo {
+        width: 155px;
+        height: 155px;
+    }
+
+    .universe_bg .earth,
+    .universe_bg .earth_effect {
+        width: 140px;
+        height: 140px;
+    }
+
+    .universe_bg .sun {
+        width: 300px;
+        height: 300px;
+    }
+
+    .p_UniverseTime_Globe {
+        width: 650px;
+        height: 650px;
+    }
+
+    /* #endregion */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+    .rootDot_1 {
+        bottom: 63%;
+        left: 6%;
+    }
+
+    .rootDot_2 {
+        bottom: 82%;
+        left: 31%;
+    }
+
+    .rootDot_3 {
+        bottom: 73.1%;
+        left: 56.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 48%;
+        left: 75.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 15.2%;
+        left: 22%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+    /* #region UniverseTime */
+    .universe_bg .universe_firstSection {
+        padding-top: 9rem;
+        height: 45%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .universe_bg .universe_firstSection_text {
+        font-size: 20px;
+        padding-left: 20%;
+    }
+
+    .universe_bg .universe_secondSection_text {
+        font-size: 20px;
+    }
+
+    .universe_bg .universe_secondSection_OMLogo {
+        width: 180px;
+        height: 180px;
+    }
+
+    .universe_bg .sun {
+        width: 320px;
+        height: 320px;
+    }
+
+    .p_UniverseTime_Globe {
+        width: 520px;
+        height: 520px;
+    }
+
+    /* #endregion */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .rootDot_1 {
+        bottom: 65%;
+        left: 7.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 33.7%;
+    }
+
+    .rootDot_3 {
+        bottom: 75.1%;
+        left: 58.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 50.5%;
+        left: 77.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 18.2%;
+        left: 24%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 12%;
+    }
+
+    /* #region UniverseTime */
+    .universe_bg .universe_firstSection {
+        padding-top: 7rem;
+        height: 45%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .universe_bg .universe_firstSection_text {
+        font-size: 20px;
+        padding-left: 20%;
+    }
+
+    .universe_bg .universe_secondSection_text {
+        font-size: 20px;
+    }
+
+    .universe_bg .sun {
+        width: 350px;
+        height: 350px;
+    }
+
+    .p_UniverseTime_Globe {
+        width: 550px;
+        height: 550px;
+    }
+
+    /* #endregion */
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+    .rootDot_1 {
+        bottom: 62%;
+        left: 7%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 33.7%;
+    }
+
+    .rootDot_3 {
+        bottom: 76.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 50.5%;
+        left: 78%;
+    }
+
+    .rootDot_5 {
+        bottom: 18.2%;
+        left: 24%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: -1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 18%;
+    }
+
+    /* #region UniverseTime */
+    .universe_bg .universe_firstSection {
+        padding-top: 7rem;
+        height: 45%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .universe_bg .universe_firstSection_text {
+        font-size: 20px;
+        padding-left: 20%;
+    }
+
+    .universe_bg .universe_secondSection_text {
+        font-size: 20px;
+    }
+
+    .universe_bg .sun {
+        width: 370px;
+        height: 370px;
+    }
+
+    .p_UniverseTime_Globe {
+        width: 570px;
+        height: 570px;
+      }
+
+    /* #endregion */
+}
+
+/* XXX-Large devices (extra-large desktops, 1600px and up) */
+@media (min-width: 1600px) and (max-width: 1920px) {
+
+    .rootDot_1 {
+        bottom: 66%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 87%;
+        left: 34.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 78.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 52.5%;
+        left: 78.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 19.2%;
+        left: 24.8%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 0%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 10%;
+        left: 20%;
+    }
+
+    /* #region UniverseTime */
+    .universe_bg .universe_firstSection {
+        padding-top: 7rem;
+        height: 45%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .universe_bg .universe_firstSection_text {
+        font-size: 20px;
+        padding-left: 30%;
+    }
+
+    .universe_bg .universe_secondSection_text {
+        font-size: 20px;
+    }
+
+    .universe_bg .sun {
+        width: 400px;
+        height: 400px;
+    }
+
+    .p_UniverseTime_Globe {
+        width: 600px;
+        height: 600px;
+      }
+
+    /* #endregion */
+}
+
+@media (min-width: 1920px) and (max-width: 2560px) {
+    .rootDot_1 {
+        bottom: 66%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 88%;
+        left: 35.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 79.1%;
+        left: 60.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 54%;
+        left: 79%;
+    }
+
+    .rootDot_5 {
+        bottom: 22%;
+        left: 25.5%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: -1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 20%;
+        left: 22%;
+    }
+
+
+}
+
+
+
+
+/* Resposive exactly device */
+
+/* Destop */
+@media screen and (width : 2560px) and (height : 1600px) {
+
+    .rootDot_1 {
+        bottom: 69%;
+        left: 9.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 90%;
+        left: 36.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 81.1%;
+        left: 61.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 56%;
+        left: 80%;
+    }
+
+    .rootDot_5 {
+        bottom: 25%;
+        left: 26.5%;
+    }
+
+    .rootContent_1 {
+        bottom: 52%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 62%;
+    }
+
+    .rootContent_4 {
+        top: 35%;
+        left: 80%;
+    }
+
+    .rootContent_5 {
+        bottom: 25%;
+        left: 22%;
+    }
+
+
+}
+
+@media screen and (width : 2560px) and (height : 1440px) {
+
+    .rootDot_1 {
+        bottom: 68%;
+        left: 9%;
+    }
+
+    .rootDot_2 {
+        bottom: 90%;
+        left: 36.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 81.1%;
+        left: 61.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 56%;
+        left: 80%;
+    }
+
+    .rootDot_5 {
+        bottom: 24%;
+        left: 27%;
+    }
+
+    .rootContent_1 {
+        bottom: 49%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 62%;
+    }
+
+    .rootContent_4 {
+        top: 35%;
+        left: 80%;
+    }
+
+    .rootContent_5 {
+        bottom: 25%;
+        left: 20%;
+    }
+
+}
+
+@media screen and (width : 2388px) and (height : 1668px) {
+
+    .rootDot_1 {
+        bottom: 70%;
+        left: 9.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 91%;
+        left: 36.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 81.1%;
+        left: 61.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 56.5%;
+        left: 80%;
+    }
+
+    .rootDot_5 {
+        bottom: 24.2%;
+        left: 26%;
+    }
+
+    .rootContent_1 {
+        bottom: 60%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 25%;
+        left: 22%;
+    }
+
+}
+
+@media screen and (width :2268px) and (height : 1476px) {
+
+    .rootDot_1 {
+        bottom: 68%;
+        left: 9%;
+    }
+
+    .rootDot_2 {
+        bottom: 90%;
+        left: 36.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 81.1%;
+        left: 61.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 56%;
+        left: 80%;
+    }
+
+    .rootDot_5 {
+        bottom: 25%;
+        left: 26%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 25%;
+        left: 20%;
+    }
+
+}
+
+@media screen and (width : 1920px) and (height : 1080px) {
+
+    .rootDot_1 {
+        bottom: 66%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 88%;
+        left: 35.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 79.1%;
+        left: 60.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 54%;
+        left: 79%;
+    }
+
+    .rootDot_5 {
+        bottom: 22%;
+        left: 25.5%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 20%;
+        left: 22%;
+    }
+
+}
+
+@media screen and (width : 1920px) and (height : 1200px) {
+
+    .rootDot_1 {
+        bottom: 66.5%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 88%;
+        left: 35.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 79.1%;
+        left: 60.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 54%;
+        left: 79%;
+    }
+
+    .rootDot_5 {
+        bottom: 22%;
+        left: 25%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 20%;
+        left: 27%;
+    }
+
+}
+
+@media screen and (width : 1728px) and (height : 992px) {
+
+    .rootDot_1 {
+        bottom: 64%;
+        left: 7.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 88%;
+        left: 34.6%;
+    }
+
+    .rootDot_3 {
+        bottom: 78.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 52.5%;
+        left: 78.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 20.5%;
+        left: 25%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 10%;
+        left: 22%;
+    }
+
+}
+
+@media screen and (width : 1620px) and (height : 945px) {
+
+    .rootDot_1 {
+        bottom: 66%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 87%;
+        left: 34.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 78.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 52.5%;
+        left: 78.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 19.2%;
+        left: 25%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 10%;
+        left: 22%;
+    }
+
+}
+
+@media screen and (width : 1600px) and (height : 900px) {
+
+    .rootDot_1 {
+        bottom: 66%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 87%;
+        left: 34.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 78.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 52.5%;
+        left: 78.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 19.2%;
+        left: 24.8%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 10%;
+        left: 22%;
+    }
+
+}
+
+@media screen and (width : 1536px) and (height : 864px) {
+
+    .rootDot_1 {
+        bottom: 66%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 87%;
+        left: 34.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 78.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 52.5%;
+        left: 78.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 19.2%;
+        left: 24.5%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 10%;
+        left: 22%;
+    }
+
+}
+
+@media screen and (width : 1512px) and (height : 982px) {
+
+    .rootDot_1 {
+        bottom: 66%;
+        left: 8%;
+    }
+
+    .rootDot_2 {
+        bottom: 87%;
+        left: 34.2%;
+    }
+
+    .rootDot_3 {
+        bottom: 78.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 52.5%;
+        left: 78.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 19.2%;
+        left: 24%;
+    }
+
+    .rootContent_1 {
+        bottom: 40%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 30%;
+        left: 70%;
+    }
+
+    .rootContent_5 {
+        bottom: 10%;
+        left: 22%;
+    }
+
+}
+
+@media screen and (width : 1440px) and (height : 768px) {
+
+    .rootDot_1 {
+        bottom: 62%;
+        left: 7%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 33.7%;
+    }
+
+    .rootDot_3 {
+        bottom: 76.1%;
+        left: 59.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 50.5%;
+        left: 78%;
+    }
+
+    .rootDot_5 {
+        bottom: 18.2%;
+        left: 24%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 18%;
+    }
+
+}
+
+@media screen and (width : 1366px) and (height : 768px) {
+
+    .rootDot_1 {
+        bottom: 65%;
+        left: 7.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 33.7%;
+    }
+
+    .rootDot_3 {
+        bottom: 75.1%;
+        left: 58.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 50.5%;
+        left: 77.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 18.2%;
+        left: 24%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+@media screen and (width : 1280px) and (height : 720px) {
+
+    .rootDot_1 {
+        bottom: 65%;
+        left: 7.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 33.7%;
+    }
+
+    .rootDot_3 {
+        bottom: 75.1%;
+        left: 58.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 50.5%;
+        left: 77.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 18%;
+        left: 23%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+@media screen and (width : 1280px) and (height : 800px) {
+
+    .rootDot_1 {
+        bottom: 65%;
+        left: 7.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 33.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 76.1%;
+        left: 58.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 51.5%;
+        left: 77%;
+    }
+
+    .rootDot_5 {
+        bottom: 18.2%;
+        left: 23.5%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+/* Tablet */
+@media screen and (width : 1152px) and (height : 864px) {
+
+    .rootDot_1 {
+        bottom: 63%;
+        left: 6%;
+    }
+
+    .rootDot_2 {
+        bottom: 86%;
+        left: 32.5%;
+    }
+
+    .rootDot_3 {
+        bottom: 77%;
+        left: 57%;
+    }
+
+    .rootDot_4 {
+        bottom: 52%;
+        left: 76%;
+    }
+
+    .rootDot_5 {
+        bottom: 19%;
+        left: 23%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+@media screen and (width : 1136px) and (height : 640px) {
+
+    .rootDot_1 {
+        bottom: 63%;
+        left: 6.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 83%;
+        left: 32%;
+    }
+
+    .rootDot_3 {
+        bottom: 74.1%;
+        left: 58.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 49%;
+        left: 76.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 16.2%;
+        left: 22%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+@media screen and (width : 1050px) and (height : 600px) {
+
+    .rootDot_1 {
+        bottom: 60%;
+        left: 4%;
+    }
+
+    .rootDot_2 {
+        bottom: 82%;
+        left: 31%;
+    }
+
+    .rootDot_3 {
+        bottom: 73.1%;
+        left: 56.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 48%;
+        left: 75.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 15.2%;
+        left: 22%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+@media screen and (width : 1024px) and (height : 600px) {
+
+    .rootDot_1 {
+        bottom: 58%;
+        left: 4%;
+    }
+
+    .rootDot_2 {
+        bottom: 82%;
+        left: 31%;
+    }
+
+    .rootDot_3 {
+        bottom: 73.1%;
+        left: 56.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 48%;
+        left: 75.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 15.2%;
+        left: 22%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+@media screen and (width : 1024px) and (height : 576px) {
+
+    .rootDot_1 {
+        bottom: 63%;
+        left: 6%;
+    }
+
+    .rootDot_2 {
+        bottom: 82%;
+        left: 31%;
+    }
+
+    .rootDot_3 {
+        bottom: 73.1%;
+        left: 56.2%;
+    }
+
+    .rootDot_4 {
+        bottom: 48%;
+        left: 75.5%;
+    }
+
+    .rootDot_5 {
+        bottom: 15.2%;
+        left: 22%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+
+}
+
+@media screen and (width : 1024px) and (height : 768px) {
+
+    .rootDot_1 {
+        bottom: 62%;
+        left: 5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 32%;
+    }
+
+    .rootDot_3 {
+        bottom: 76.1%;
+        left: 57%;
+    }
+
+    .rootDot_4 {
+        bottom: 51.5%;
+        left: 76%;
+    }
+
+    .rootDot_5 {
+        bottom: 18.2%;
+        left: 21.5%;
+    }
+
+    .rootContent_1 {
+        bottom: 27%;
+        left: 11%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+@media screen and (width : 800px) and (height : 480px) {
+
+    .rootDot_1 {
+        bottom: 58%;
+        left: 4.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 81%;
+        left: 31%;
+    }
+
+    .rootDot_3 {
+        bottom: 66%;
+        left: 62%;
+    }
+
+    .rootDot_4 {
+        bottom: 47%;
+        left: 75%;
+    }
+
+    .rootDot_5 {
+        bottom: 10.2%;
+        left: 19%;
+    }
+
+    .rootContent_1 {
+        bottom: 12%;
+        left: 18%;
+    }
+
+    .rootContent_2 {
+        top: 1%;
+        left: 35%;
+    }
+
+    .rootContent_3 {
+        top: 11%;
+        left: 56%;
+    }
+
+    .rootContent_4 {
+        top: 1%;
+        left: 56%;
+    }
+
+    .rootContent_5 {
+        bottom: 5.2%;
+        left: 14%;
+    }
+
+}
+
+/* Mobile */
+@media screen and (width : 280px) and (height : 653px) {
+
+    .rootDot_1 {
+        bottom: 22%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 83%;
+        left: 10.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 59%;
+    }
+
+    .rootDot_4 {
+        bottom: 33.5%;
+        left: 50%;
+    }
+
+    .rootDot_5 {
+        bottom: 53.2%;
+        left: 82%;
+    }
+
+    .rootContent_1 {
+        bottom: 25%;
+        left: 0%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 38%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: -9%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 320px) and (height : 568px) {
+
+    .rootDot_1 {
+        bottom: 22%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 83%;
+        left: 10.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 59%;
+    }
+
+    .rootDot_4 {
+        bottom: 33.5%;
+        left: 50%;
+    }
+
+    .rootDot_5 {
+        bottom: 53.2%;
+        left: 82%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 3.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 38%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 0%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 360px) and (height : 800px) {
+
+    .rootDot_1 {
+        bottom: 23%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 84%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 54.2%;
+        left: 84%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 15.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 46%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 11%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 360px) and (height : 780px) {
+
+    .rootDot_1 {
+        bottom: 23%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 84%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 54.2%;
+        left: 84%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 15.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 46%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 11%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 360px) and (height : 748px) {
+
+    .rootDot_1 {
+        bottom: 23%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 84%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 54.2%;
+        left: 84%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 15.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 46%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 11%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 360px) and (height : 740px) {
+
+    .rootDot_1 {
+        bottom: 23%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 84%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 54.2%;
+        left: 84%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 15.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 46%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 11%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 360px) and (height : 640px) {
+
+    .rootDot_1 {
+        bottom: 23%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 84%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 54.2%;
+        left: 84%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 15.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 46%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 11%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 375px) and (height : 667px) {
+
+    .rootDot_1 {
+        bottom: 23%;
+        left: 20.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 84%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 65.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 54.2%;
+        left: 84%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 15.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 46%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 11%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 375px) and (height : 812px) {
+
+    .rootDot_1 {
+        bottom: 24%;
+        left: 21.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 66.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 55.2%;
+        left: 85%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 15.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 52%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 11%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 390px) and (height : 844px) {
+
+    .rootDot_1 {
+        bottom: 24%;
+        left: 21.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 66.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 55.2%;
+        left: 85%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 52%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 22%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 393px) and (height : 844px) {
+
+    .rootDot_1 {
+        bottom: 24%;
+        left: 21.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85%;
+        left: 11.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 66.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 55.2%;
+        left: 85%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 52%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 22%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 414px) and (height : 896px) {
+
+    .rootDot_1 {
+        bottom: 24%;
+        left: 21.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85.5%;
+        left: 12.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 66.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 55.2%;
+        left: 85%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 52%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 22%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 428px) and (height : 926px) {
+
+    .rootDot_1 {
+        bottom: 24%;
+        left: 21.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85.5%;
+        left: 12.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 66.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 34.5%;
+        left: 51%;
+    }
+
+    .rootDot_5 {
+        bottom: 55.2%;
+        left: 85%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 52%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 22%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+
+}
+
+@media screen and (width : 430px) and (height : 932px) {
+
+    .rootDot_1 {
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootDot_2 {
+        bottom: 85.5%;
+        left: 12.4%;
+    }
+
+    .rootDot_3 {
+        bottom: 66.1%;
+        left: 61%;
+    }
+
+    .rootDot_4 {
+        bottom: 35.5%;
+        left: 52%;
+    }
+
+    .rootDot_5 {
+        bottom: 55.2%;
+        left: 85%;
+    }
+
+    .rootContent_1 {
+
+        bottom: 25%;
+        left: 21.5%;
+    }
+
+    .rootContent_2 {
+        top: 8%;
+        left: 12.4%;
+    }
+
+    .rootContent_3 {
+        top: 26.1%;
+        left: 52%;
+    }
+
+    .rootContent_4 {
+        top: 48%;
+        left: 22%;
+    }
+
+    .rootContent_5 {
+        bottom: 55.2%;
+        left: 42%;
+    }
+}
